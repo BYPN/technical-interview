@@ -34,7 +34,18 @@ If you do not or can not use VSCode, we will use a video call to share/present y
 
 # Checkout Specification
 
-A client has asked us to build a checkout for them for their new coffee shop. The system will need to scan items with a function called `scan`, and return the current total price with a function called `getTotalPrice`.
+A client has asked us to build some software for their new coffee shop's checkout. The code will need to scan items with a function called `scan`, and return the current total price with a function called `getTotalPrice`.
+
+Example:
+
+```js
+
+const checkout = new Checkout();
+
+checkout.scan("Apple");
+checkout.getTotalPrice(); // returns 1
+
+```
 
 **The client already has customers in the shop, but no working till.**
 

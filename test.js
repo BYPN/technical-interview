@@ -1,5 +1,7 @@
 const assert = require("assert");
-const checkout = require("./checkout");
+const Checkout = require("./Checkout");
+
+const checkout = new Checkout();
 
 describe("checkout", function(){
 

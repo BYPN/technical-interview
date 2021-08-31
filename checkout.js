@@ -1,3 +1,5 @@
-module.exports = {
-	scan: function(){}
+module.exports = function(){
+	return {
+		scan: function(){}
+	}
 };

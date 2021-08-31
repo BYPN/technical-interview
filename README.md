@@ -8,7 +8,7 @@ Below are the instructions for setting up your environment and the starting poin
 
 You will need the following installed on your machine:
 
-- NodeJs and npm ([Instructions](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm))
+- NodeJs and npm ([More information](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm))
 - Mocha ([More information](https://mochajs.org/))
 
 Clone this repository on to your local machine and run `npm i` to install mocha.

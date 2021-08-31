@@ -2,6 +2,8 @@
 
 This is the code you will need for the technical part of BYP's engineering recruitment process.
 
+Below are the instructions for setting up your environment and the starting point for the coding exercise.
+
 ## Set up
 
 You will need the following installed on your machine:
@@ -11,7 +13,18 @@ You will need the following installed on your machine:
 
 Clone this repository on to your local machine and run `npm i` to install mocha.
 
-Run `npm test` to run the mocha tests. Two tests should pass.
+Run `npm test` to run the tests. Two tests should pass:
+
+```
+  checkout
+    ✔ This test will pass
+    ✔ I can scan an item without an error being thrown
+
+
+  2 passing (4ms)
+```
+
+If the tests pass, everything is working.
 
 ## Sharing a session on VSCode
 

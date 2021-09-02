@@ -70,7 +70,7 @@ The following items can be scanned (the String is passed to the `scan` function)
 - Flat White (£3.50)
 - Americano (£2.00)
 
-There is a special offer on Bananas: they are 3 for 2.
+There is a special offer on Bananas: if you buy 3 you only pay for 2.
 
 There is a special offer on Americanos: they are 4 for £6.50.
 

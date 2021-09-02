@@ -32,6 +32,20 @@ If the tests pass, everything is working.
 
 If you do not or can not use VSCode, we will use a video call to share/present your screen instead.
 
+## Goals
+
+The aim of this exercise is to see how you code and how well we work together. The following are some of the ways we assess the exercise.
+
+* Is the code [clean](https://garywoodfine.com/what-is-clean-code/) and testable.
+* Is the code as [Functional](https://www.youtube.com/watch?v=e-5obm1G_FY) as possible without sacrificing readability (as oppose to Object Orientated code or Procedural code).
+* Are we using tests to drive the development by following the [Test Driven Development process](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html).
+* Is the code being safely [refactored](https://www.agilealliance.org/glossary/refactoring/).
+* Are we making the [smallest steps possible](https://www.thedroidsonroids.com/blog/6-misconceptions-about-tdd-part-4-steps-size) as we write and [refactor](https://wiki.c2.com/?RefactoringInVerySmallSteps) the code.
+* Communication:
+  * Talking about your decision making process.
+  * Ask for help when you get stuck.
+  * Focus on the people and the problem, not the implimentation.
+
 # Checkout Specification
 
 A client has asked us to build some software for their new coffee shop's checkout. The code will need to scan items with a function called `scan`, and return the current total price with a function called `getTotalPrice`.

@@ -36,7 +36,7 @@ If you do not or can not use VSCode, we will use a video call to share/present y
 
 The aim of this exercise is to see how you code and how well we work together. The following are some of the ways we assess the exercise.
 
-* Is the code [clean](https://garywoodfine.com/what-is-clean-code/) and testable.
+* Is the code [clean](https://garywoodfine.com/what-is-clean-code/) and [testable](https://www.toptal.com/javascript/writing-testable-code-in-javascript).
 * Is the code as [Functional](https://www.youtube.com/watch?v=e-5obm1G_FY) as possible without sacrificing readability (as oppose to Object Orientated code or Procedural code).
 * Are we using tests to drive the development by following the [Test Driven Development process](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html).
 * Is the code being safely [refactored](https://www.agilealliance.org/glossary/refactoring/).

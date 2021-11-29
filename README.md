@@ -4,6 +4,8 @@ This is the code you will need for the technical part of BYP's engineering recru
 
 Below are the instructions for setting up your environment and the starting point for the coding exercise.
 
+We will be on a call with a shared coding environment, and we will be pair programming. If you would prefer not to (as a lot of people can freeze up during technical interviews), you also have the option to "take home" the exercise. You'd work on it for an hour and then we would discuss how it went and the choces you made. Please be mindful of the goals below.
+
 ## Set up
 
 You will need the following installed on your machine:
